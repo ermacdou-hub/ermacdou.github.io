@@ -43,17 +43,13 @@ nav a:hover {
 main {
     padding: 20px;
 }
-h2 {
+h1 {
     text-align: center;
 }
-h3 {
-    text-align: senter;
-}
-h4 {
-    text-align: center;
-}
-h5 {
-    text-align: center;
+p {
+    color: #151f56;
+    font-weight: bold;
+    text-align:center;
 }
 button {
     background-color: #3427ce;
